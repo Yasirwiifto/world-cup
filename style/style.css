@@ -23,3 +23,9 @@ p {
     font-family: 'Playfair Display';
     color: #211111;
 }
+
+/* footer*/
+footer {
+    background-color: #211111;
+    color: white;
+}
