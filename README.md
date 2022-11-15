@@ -52,10 +52,10 @@ I have downloaded <a href="https://live.staticflickr.com/1965/44451488875_dd80f8
 
 # Testing
 
-details>
-<summary>Manual testing</summary>
+<details>
+<summary>Manual testing </summary>
 <br>
 
 ![Testing ](images/testing.png)
 
-</details>
+</details> 
