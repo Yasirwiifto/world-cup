@@ -29,8 +29,33 @@ The World Cup is held once every four years, it is my favourite sports tournamen
 ![design imgae ](images/sketch-design.png)
 
 </details>
+<br>
 
 # fonts
 I have used Oswald fonts for the h1 and h2; from Google.
 I have used Playfair Display fonts for the paragraph; from Google.
+ <br>
+
+ # credit 
  
+ ## image 
+ 
+<details>
+<summary>World Cup</summary>
+<br>
+
+![World Cup ](images/world-cup-22.jpeg)
+
+I have downloaded <a href="https://live.staticflickr.com/1965/44451488875_dd80f8ff9d_b.jpg">here</a>
+
+</details>
+
+# Testing
+
+details>
+<summary>Manual testing</summary>
+<br>
+
+![Testing ](images/testing.png)
+
+</details>
