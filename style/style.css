@@ -1,14 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500&family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&display=swap');
 
 /* Header */
-h1 {
+h1, h2{
     font-family: 'Oswald', sans-serif;
     text-align: center;
     color: #211111;
 }
 
-h2 {
+h3 {
+    text-align: center;
     font-family: 'Oswald', sans-serif;
+}
+
+#time {
+    border: 2px solid #211111;
+    max-width: 30%;
 }
 
 /* image */
@@ -16,16 +22,33 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 50%;
+    max-width: 60%;
 }
 /* paragraph */
 p {
     font-family: 'Playfair Display';
     color: #211111;
+    font-size: 1.2rem;
+}
+
+/* list */
+li {
+    font-family: 'Playfair Display';
+    font-size: 1.2rem;
 }
 
 /* footer*/
 .footer {
     background-color: #211111;
     color: white;
+}
+
+.social{
+    text-decoration: none;
+    text-align: center;
+}
+
+.social-links {
+    color: white;
+    font-size: 1.2rem;
 }
