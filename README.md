@@ -1,6 +1,8 @@
 # Purpose of the project
 Your first project is to create a Hobby Page. This can be about one of your hobbies, a particular interest of yours, or a public figure you admire. You are not required to make this about yourself or disclose anything personal. The page will be built with HTML, styled with CSS and use a bit of JavaScript.
 
+[Website Link](https://yasirwiifto.github.io/world-cup/)
+
 # Requirements
 <li>The page has a title which informs the user what the site is about.</li>
 <li>The page has a logical layout and clear structure.</li>
